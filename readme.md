@@ -14,7 +14,7 @@ A responsive and modern weather forecast application built using **HTML**, **CSS
 
 ## 🌐 Live Demo
 
-[🔗 View it on GitHub Pages](https://yash08official.github.io/weather-app/) *(replace this with your actual link after deployment)*
+[🔗 View Website](https://yash08official.github.io/weather-app/)
 
 ## 📦 Tech Stack
 
@@ -26,13 +26,13 @@ A responsive and modern weather forecast application built using **HTML**, **CSS
 ## 🚀 Getting Started
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Yash08official/weather-app.git
-    ```
+   ```bash
+   git clone https://github.com/Yash08official/weather-app.git
+   ```
 2. Navigate to the project folder:
-    ```bash
-    cd weather-app
-    ```
+   ```bash
+   cd weather-app
+   ```
 3. Open `index.html` in your browser.
 
 ## 🛠️ Setup
